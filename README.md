@@ -22,7 +22,7 @@ Run this command to install Requests:
     pip install requests
 
 
-## File
+## Files
 
 [create_user_test.py](create_user_test.py) has basic example of how to use 
     
