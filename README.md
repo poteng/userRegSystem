@@ -1,6 +1,6 @@
 # userRegSystem
 
-It's a program to request user information from [randomuser.me] (https://randomuser.me/api/), and store information in a local SQLite database.
+It's a program to request user information from [randomuser.me](https://randomuser.me/api/), and store information in a local SQLite database.
 
 ## Example
 
@@ -24,10 +24,10 @@ Run this command to install Requests:
 
 ## File
 
-[create_user_test.py] (create_user_test.py) has basic example of how to use 
+[create_user_test.py](create_user_test.py) has basic example of how to use 
     
-[database_command.py] (database_command.py) has commands for database manipulation.
+[database_command.py](database_command.py) has commands for database manipulation.
 
-[password_system.py] (password_system.py) has functions for generating/validating password
+[password_system.py](password_system.py) has functions for generating/validating password
 
-[test_check_password_level.py] (test_check_password_level.py) has unit test for `check_password()` function
+[test_check_password_level.py](test_check_password_level.py) has unit test for `check_password()` function
